@@ -1,2 +1,9 @@
 # hello-world
-This is my first repository made while I was reading the Github's guide. So, I'm learning Github and this place is for store information and ideas.
+
+Hi humans!
+
+Fuentech here. I like Java, c++. I'm learning JavaScript. I love electronics 
+and also Arduino. So I want to mix coding with hardware, and JavaScript will 
+help me.
+
+Before I forget, my real name is Luis.
